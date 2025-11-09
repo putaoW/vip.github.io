@@ -1,11 +1,11 @@
 # Site settings
-title: lansha Blog
+title: putao Blog
 SEOTitle: putao-blog |lansha
 header-img: img/home-bg.jpg
 email: admin@250052.xyz
 description: "这里是 @putao 的个人博客，与你一起发现更大的世界 | 要做一个有思想 的咸鱼"
 keyword: "PT, HuxPT, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://250052.xyz" # your host, for absolute URL
+url: "https://ruihan.xin" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
