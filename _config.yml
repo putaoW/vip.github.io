@@ -1,9 +1,9 @@
 # Site settings
 title: lansha Blog
-SEOTitle: 蓝鲨的博客 |lansha
+SEOTitle: putao-blog |lansha
 header-img: img/home-bg.jpg
 email: admin@250052.xyz
-description: "这里是 @lansha 的个人博客，与你一起发现更大的世界 | 要做一个有思想 的咸鱼"
+description: "这里是 @putao 的个人博客，与你一起发现更大的世界 | 要做一个有思想 的咸鱼"
 keyword: "PT, HuxPT, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://250052.xyz" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: lansha
-zhihu_username: lansha
-github_username: lansha
-twitter_username: lansha
-#facebook_username:  lansha
+weibo_username: putao
+zhihu_username: putao
+github_username: putao
+twitter_username: putao
+#facebook_username:  putao
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -74,7 +74,7 @@ ga_domain: 250052.xyz
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "putao <br> React Team @ Meta"
 sidebar-avatar: https://github.com/user-attachments/assets/2e726e2a-3fc6-44f9-9f39-c4dab8eee725 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
